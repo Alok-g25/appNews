@@ -1,2 +1,2 @@
 # appNews
-using Reactjs, bootstrap and using news api
+creating a NewsApp using news api, bootstrap and reactjs
